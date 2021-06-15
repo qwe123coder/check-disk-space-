@@ -4,6 +4,8 @@
 
 this will check how much disk space dose all your pakagese take
 
+to run the code use ```python main.py```
+
 <h1> Sample output </h1> 
 
 ```Package                        Version                        Installer       Size
